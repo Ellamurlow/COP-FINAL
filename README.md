@@ -29,7 +29,7 @@ The app simulates a subcontractor management tool:
 
 ## 🗂 Project Structure
 ```plaintext
-ContractorProject/
+COP-FINAL/
 ├── Contractor.cs             # Base class: contractor info + ToString override
 ├── Subcontractor.cs          # Inherits from Contractor; adds shift, pay rate, ComputePay()
 ├── Program.cs                 # Main console UI, input handling, and program logic
