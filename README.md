@@ -34,6 +34,3 @@ ContractorProject/
 ├── Subcontractor.cs          # Inherits from Contractor; adds shift, pay rate, ComputePay()
 ├── Program.cs                 # Main console UI, input handling, and program logic
 ├── README.md                  # Project documentation (this file)
-├── README.pdf                 # PDF version of README for submission
-├── Final_Project_Writeup.pdf  # Explanation, hurdles, and improvement ideas
-
